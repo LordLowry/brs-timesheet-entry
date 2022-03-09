@@ -1,0 +1,21 @@
+{
+  "name": "brs-timesheet-entry",
+  "version": "1.0.0",
+  "description": "Automate the booking of teetimes",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordLowry/brs-timesheet-entry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordLowry/brs-timesheet-entry/issues"
+  },
+  "homepage": "https://github.com/LordLowry/brs-timesheet-entry#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
